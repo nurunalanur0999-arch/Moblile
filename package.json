@@ -1,0 +1,9 @@
+{
+  "name": "bentley-outdoors-premium",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Responsive multi-page static website for Bentley Outdoors",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
